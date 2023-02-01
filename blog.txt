@@ -1,0 +1,19 @@
+difference between document and window
+
+                              DOCUMENT
+
+In the context of web development, "document" refers to the content of a web page,
+which is usually written in HTML and displayed in a web browser. The document object represents the content of the web page, and can be manipulated using 
+JavaScript to change the content and appearance of the page.
+
+
+                              WINDOW
+
+"Window" refers to the browser window in which a web page is displayed. 
+The window object is a top-level object in JavaScript and represents the browser window. 
+It provides access to the properties and methods of the browser window, such as the size of the window, the position of the window, 
+and the ability to open and close windows.
+
+In short, the "document" represents the content of a web page, 
+while the "window" represents the browser window in which the web page is displayed. 
+Both are important concepts in web development and play a crucial role in creating interactive and dynamic web pages.
